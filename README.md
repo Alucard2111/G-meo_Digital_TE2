@@ -53,7 +53,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone [https://github.com/Alucard2111/G-meo_Digital_TE2.git]
     ```
 2.  Instale as dependências do Python:
     ```bash
